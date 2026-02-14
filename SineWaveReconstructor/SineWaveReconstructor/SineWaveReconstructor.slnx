@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SineWaveReconstructor/SineWaveReconstructor.vcxproj" Id="2b728b44-b6d9-4480-87a5-52b3b5948291" />
+</Solution>
